@@ -19,4 +19,9 @@ public class CalculadoraVer {
 		
 	}
 	
+	private int multiplicar(int num1, int num2) {
+		int resul=num1*num2;
+		
+		return resul;
+	}
 }
